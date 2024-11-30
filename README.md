@@ -46,3 +46,5 @@ Make sure you have the following installed on your machine:
 
 ## Contributing
 We welcome contributions! If you find a bug or have a feature request, please open an issue or submit a pull request.
+
+Making some changes into this project.
